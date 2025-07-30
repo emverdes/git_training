@@ -1,8 +1,5 @@
-Estamos en taller de Linux
+Hola Mundo.
 
-Jajaja
+Estamos aprendiendo GIT en el Taller Linux
 
-Estamos en clase de GIT
-Taller Febrero 2025
-
-Ahora estoy probando visual studio
+Julio 2025
