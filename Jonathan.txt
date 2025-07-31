@@ -4,5 +4,9 @@ Nuevo texto
 
 Commit without -m
 
+<<<<<<< HEAD
 
 test
+=======
+from branch jorge
+>>>>>>> jorge
