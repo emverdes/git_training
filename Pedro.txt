@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+Pedro
+
+Edito aca abajo en master 
+=======
+Pedro edito esta linea en branch Jorge 
+>>>>>>> jorge
