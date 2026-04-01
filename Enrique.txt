@@ -1,5 +1,3 @@
 Hola Mundo.
 
-Estamos aprendiendo GIT en el Taller Linux
-
-Febrero 2026
+Ahora estoy con los chicos del Academy de NL.
